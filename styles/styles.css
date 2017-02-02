@@ -1,0 +1,9 @@
+body {
+  background-image: url('./brandy.jpg');
+  font-family: "Lobster", cursive;
+}
+
+#quoteDisplay {
+  width: 100px;
+  height: 100px;
+}

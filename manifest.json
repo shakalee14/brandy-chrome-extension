@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Brandy Chrome Plug In",
+  "description": "This extension will add a Brandy lyrics pop up",
+  "version": "1.0",
+  "browser_action": {
+   "default_icon": "images/brandy.jpg",
+   "default_popup": "index.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
